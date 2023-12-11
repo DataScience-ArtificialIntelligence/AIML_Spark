@@ -39,6 +39,7 @@ This project presents the fine-tuning of the Llama 2 language model for Devanaga
 
 For Training Please refer to the notebooks. <br>
 For inference from the model use ```python inference.py```
+Note: Please Write the model name to finetune in the repository 
 ## Methodology
 
 For detailed information on the methodology used in this project, please refer to the [Report]().
