@@ -42,7 +42,7 @@ For inference from the model use ```python inference.py message```
 
 ## Methodology
 
-For detailed information on the methodology used in this project, please refer to the [Report]().
+For detailed information on the methodology used in this project, please refer to the [Report](DS303_Algo_and_AI_Report.pdf).
 
 ## Results
 
