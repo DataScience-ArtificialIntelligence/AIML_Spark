@@ -1,4 +1,4 @@
-#Energy-Efficient Fine-Tuning of Large Language Models on Devanagari Script-based Languages
+# Energy-Efficient Fine-Tuning of Large Language Models on Devanagari Script-based Languages
 This project focuses on fine-tuning the Llama 2 language model for Devanagari script languages, emphasizing Hindi and Sanskrit. The goal is to enhance language understanding and generation with a particular emphasis on energy-efficient strategies.
 
 ## Table of Contents
@@ -38,15 +38,15 @@ This project presents the fine-tuning of the Llama 2 language model for Devanaga
 ## Usage
 
 For Training Please refer to the notebooks. <br>
-For inference from the model use ```python inference.py```
-Note: Please Write the model name to finetune in the repository 
+For inference from the model use ```python inference.py message```
+
 ## Methodology
 
 For detailed information on the methodology used in this project, please refer to the [Report]().
 
 ## Results
 
-Our fine-tuned Llama 2 model excelled in understanding diverse Devanagari languages, achieving a commendable BLEU score. While ChatGPT boasts a higher BLEU score for Hindi, our model’s versatility extends to Sanskrit and other Devanagari languages.
+Our fine-tuned Llama 2 model excelled in understanding diverse Devanagari languages, achieving a commendable BLEU score. While ChatGPT boasts a higher BLEU score for Hindi, our model’s versatility extends to Sanskrit and other Devanagari languages, while being fine-tuned on a significantly lesser amount of resources.
 | Model             | BLEU Score |
 |-------------------|------------|
 | Baseline Llama 2  | 5.20       |
